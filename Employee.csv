@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,Department,Salary
+1,John,Doe,Engineering,75000
+2,Jane,Smith,Marketing,65000
+3,Bob,Brown,Sales,55000
+4,Alice,Johnson,Human Resources,60000
+5,Charlie,Wilson,IT,70000
